@@ -1,4 +1,4 @@
-print("calculadora de IMC, atualizada em python!!")
+print("CALCULADORA IMC")
 
 peso = float(input("Digite seu peso: "))
 altura = float(input("Agora sua altura: "))
